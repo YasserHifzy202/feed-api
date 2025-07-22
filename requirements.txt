@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl          # لقراءة Excel
+python-multipart
